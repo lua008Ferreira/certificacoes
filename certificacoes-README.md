@@ -4,7 +4,7 @@
 
 Certificações que concluí em dados, nuvem, gestão ágil e TI. **Todas estão válidas.**
 
-## ☁️ Dados, nuvem e IA
+## ☁️ Dados, nuvem e IA 
 
 | Certificação | Instituição | Ano | Status |
 |---|---|---|---|
